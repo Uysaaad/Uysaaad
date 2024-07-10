@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **omnipotentxys@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: in/yushan-xu-115345294 </h3>
 <p align="left">
 </p>
 
