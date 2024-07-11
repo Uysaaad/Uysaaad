@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yushan Xu</h1>
-<h3 align="center"># Hello World! :earth_americas: Hi, I’m Yushan Xu, a Computer Science student and coding enthusiast, rocking both frontend and backend development, passionate about digital art, and on the hunt for thrilling new opportunities! :computer: :art: :sparkles:</h3>
+<h1 align="center">Hello World! :earth_americas:, I'm Yushan Xu</h1>
+<h3 align="center">a Computer Science student and coding enthusiast, rocking both frontend and backend development, passionate about digital art, and on the hunt for thrilling new opportunities! :computer: :art: :sparkles:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uysaaad&label=Profile%20views&color=0e75b6&style=flat" alt="uysaaad" /> </p>
 
