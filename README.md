@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yushan Xu</h1>
 <h3 align="center"># Hello World! :earth_americas: Hi, I’m Yushan Xu, a Computer Science student and coding enthusiast, rocking both frontend and backend development, passionate about digital art, and on the hunt for thrilling new opportunities! :computer: :art: :sparkles:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uysaaad" alt="uysaaad" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uysaaad&label=Profile%20views&color=0e75b6&style=flat" alt="uysaaad" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Uysaaad](https://github.com/Uysaaad)
 
